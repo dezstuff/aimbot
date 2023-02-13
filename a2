@@ -11,7 +11,7 @@ local SilentAimSettings = {
     Enabled = true,
     
     ClassName = "Universal Silent Aim - Project Redacted",
-    ToggleKey = "RightAlt",
+    ToggleKey = "RightCtrl",
     
     TeamCheck = true,
     VisibleCheck = false, 
